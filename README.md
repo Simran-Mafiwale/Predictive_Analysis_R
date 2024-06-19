@@ -6,6 +6,7 @@ Developed predictive models in R to anticipate outcomes and optimize decisions a
 In this project, we leverage predictive modelling techniques to build a robust model that predicts property prices based on various features.
 
 Objective:
+
 The primary objective of this project is to develop a predictive model for property prices using the `housing_train.csv` dataset. Subsequently, this model will be used to predict prices for the properties in the `housing_test.csv` dataset, where the price information is not provided. The predicted prices will then be submitted as a CSV file.
 
 Approach:
@@ -26,6 +27,7 @@ Approach:
    - Store the predicted prices in a CSV file format.
 
 Conclusion:
+
 By developing and deploying a predictive model for property pricing, this project aims to equip real estate firms with a powerful tool to optimize pricing strategies and enhance decision-making in property development and sales.
 
 
@@ -35,6 +37,7 @@ By developing and deploying a predictive model for property pricing, this projec
 In this project, we aim to build a predictive model that determines the feasibility of opening a store using machine learning techniques.
 
 Objective:
+
 The primary objective of this project is to develop a predictive model using the `store_train.csv` dataset to predict whether a store should be opened (response variable 'store'). Subsequently, this model will be used to predict store openings for the locations in the `store_test.csv` dataset, where the 'store' information is not provided. The predicted values will then be submitted as a CSV file.
 
 Approach:
@@ -55,4 +58,5 @@ Approach:
    - Store the predicted 'store' values (whether to open or not) in a CSV file format.
 
 Conclusion:
+
 By developing and deploying a predictive model for store openings, this project aims to provide retail stakeholders with a data-driven approach to make informed decisions about expanding their store network, optimizing resource allocation, and maximizing profitability.
