@@ -2,6 +2,7 @@
 Developed predictive models in R to anticipate outcomes and optimize decisions across diverse domains using robust statistical and machine learning techniques.
 
 1.	Project Overview: Predictive Modelling for Real Estate Pricing
+   
 In this project, we leverage predictive modelling techniques to build a robust model that predicts property prices based on various features.
 
 Objective:
@@ -30,6 +31,7 @@ By developing and deploying a predictive model for property pricing, this projec
 
 
 2.	Project Overview: Predictive Modelling for Store Opening
+   
 In this project, we aim to build a predictive model that determines the feasibility of opening a store using machine learning techniques.
 
 Objective:
